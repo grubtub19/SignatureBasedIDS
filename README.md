@@ -1,6 +1,8 @@
 # SignatureBasedIDS
 A command-line signature-based IDS capable of parsing, de-fragmenting, and filtering packets.
 
+![Imgur](https://i.imgur.com/Uh56JhI.png)
+
 ## Description
 
 Parses and creates a queryable Packet object which contains any of the following encapsulated protocols:
